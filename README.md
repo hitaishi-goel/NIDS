@@ -112,12 +112,6 @@ The results of the different models are compared based on accuracy, precision, a
 
 ## Contributing
 
-Feel free to fork the repository and submit pull requests with improvements or bug fixes. 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+Feel free to fork the repository and submit pull requests with improvements or bug fixes.
 
 Feel free to customize this `README.md` based on your specific requirements or any additional details about the project!
