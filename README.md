@@ -1,8 +1,4 @@
-Here’s a `README.md` file tailored for your machine learning project using the NSL-KDD dataset:
-
----
-
-# Machine Learning Classification Project on NSL-KDD Dataset
+# Supervised Machine Learning Classification for Network Traffic Analysis
 
 ## Overview
 
